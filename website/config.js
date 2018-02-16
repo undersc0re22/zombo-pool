@@ -2,7 +2,7 @@ var api = "localhost:8117";
 
 var api_blockexplorer = "#";
 
-var poolHost = "www.fusionelite.com/zombo-pool";
+var poolHost = "#";
 
 var irc = "#";
 
