@@ -1,8 +1,8 @@
-var api = "localhost:8117";
+var api = "35.186.168.149:8117";
 
 var api_blockexplorer = "#";
 
-var poolHost = "#";
+var poolHost = "35.186.168.149";
 
 var irc = "#";
 
