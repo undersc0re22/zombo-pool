@@ -109,18 +109,18 @@
     },
 
     "daemon": {
-        "host": "127.0.0.1",
-        "port": 42081
+        "host": "10.128.0.2",
+        "port": 12524
     },
 
     "wallet": {
-        "host": "127.0.0.1",
+        "host": "10.128.0.2",
         "port": 8082,
         "password": "<replace with rpc password>"
     },
 
     "redis": {
-        "host": "127.0.0.1",
+        "host": "0.0.0.0",
         "port": 6379
     },
 
