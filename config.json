@@ -1,7 +1,7 @@
 {
     "coin": "zombocoin",
     "symbol": "ZBC",
-    "coinUnits": 26000000000,
+    "coinUnits": 100,
     "coinDifficultyTarget": 45,
 
     "logging": {
@@ -21,7 +21,7 @@
         "clusterForks": "auto",
         "poolAddress": "",
         "blockRefreshInterval": 1000,
-        "minerTimeout": 900,
+        "minerTimeout": 1800,
         "ports": [
             {
                 "port": 3333,
@@ -48,7 +48,7 @@
         "varDiff": {
             "minDiff": 100,
             "maxDiff": 200000,
-            "targetTime": 100,
+            "targetTime": 10,
             "retargetTime": 30,
             "variancePercent": 30,
             "maxJump": 100
@@ -85,7 +85,7 @@
         "transferFee": 500,
         "minPayment": 20000,
         "maxTransactionAmount": 0,
-        "denomination": 100000000000
+        "denomination": 100
     },
 
     "blockUnlocker": {
